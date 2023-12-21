@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.unityinputsystemtoevent",                              
+  "displayName": "2023_12_20_UnityInputSystemToEvent",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "d",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2023_12_20_UnityInputSystemToEvent.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

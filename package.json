@@ -1,11 +1,11 @@
 
 {                                                                                
   "name": "be.eloistree.unityinputsystemtoevent",                              
-  "displayName": "2023_12_20_UnityInputSystemToEvent",                        
+  "displayName": "Unity Input System To Event",                        
   "version": "0.0.1",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
-  "description": "d",                         
+  "description": "Convert Input Action Map to primitive event.",                         
   "keywords": ["Script","Tool"],                       
   "dependencies":{},     
   "relatedPackages":{},     

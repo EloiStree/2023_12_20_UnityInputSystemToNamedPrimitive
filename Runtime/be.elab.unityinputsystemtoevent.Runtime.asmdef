@@ -1,5 +1,5 @@
 {
-    "name": "be.eloistree.unityinputsystemtoevent",
+    "name": "be.elab.unityinputsystemtoevent",
     "rootNamespace": "",
     "references": [
         "Unity.InputSystem"

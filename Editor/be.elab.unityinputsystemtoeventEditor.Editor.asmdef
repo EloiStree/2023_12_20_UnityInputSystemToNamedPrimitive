@@ -1,7 +1,7 @@
 
 {                                                                   
-            "name": "be.eloistree.unityinputsystemtoeventEditor",          
-    "references": ["be.eloistree.unityinputsystemtoevent"
+            "name": "be.elab.unityinputsystemtoeventEditor",          
+    "references": ["be.elab.unityinputsystemtoevent"
 ],                                                              
     "optionalUnityReferences": [],                                  
     "includePlatforms": [                                           
